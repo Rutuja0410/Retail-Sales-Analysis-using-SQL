@@ -13,6 +13,8 @@ This project involves data cleaning, exploration, and in-depth analysis of a ret
 ### 4. Business Analysis: 
   Use SQL to answer specific business questions and derive insights from the sales data.
 
+  ---
+
 ## 📁 Project Structure
 
 ---
